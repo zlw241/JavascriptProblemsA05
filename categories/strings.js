@@ -22,7 +22,7 @@ function caesarCipher(str, shift) {
 
 // Write a method that sorts the characters in a string according to the order of an alphabet array
 // Use alphabetical order by default if an alphabet is not provided
-function jumbleSort(str, alphabet = nil) {
+function jumbleSort(str, alphabet = null) {
 
 }
 
