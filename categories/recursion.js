@@ -42,9 +42,9 @@ function fibs_rec(n) {
 //I highly doubt that anything below will be on the test, but it's good practice
 
 // Write a recursive method subsets that will return all subsets of an array.
-Array.prototype.subsets = function () {
+function subsets(array) {
 
-};
+}
 
 
 
