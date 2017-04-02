@@ -42,7 +42,7 @@ function fibsRec(n) {
 // Let's write a method that will solve Gamma Function recursively. The Gamma
 // Function is defined Γ(n) = (n-1)!.
 
-function gammeFnc () {
+function gammaFnc () {
   
 }
 
