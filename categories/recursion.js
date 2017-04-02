@@ -1,12 +1,12 @@
 //// Recursion ////
 
 // Write a recursive method that returns the first "num" factorial numbers.
-function digital_root(num) {
+function digitalRoot(num) {
 
 }
 
 // Write a recursive method that returns an array of first n number of factorials
-function factorials_rec(num) {
+function factorialsRec(num) {
 
 }
 
@@ -35,8 +35,15 @@ Array.prototype.deepDup = function () {
 
 
 // Write a recursive method that returns the first n number of fibonacci numbers in an array
-function fibs_rec(n) {
+function fibsRec(n) {
 
+}
+
+// Let's write a method that will solve Gamma Function recursively. The Gamma
+// Function is defined Γ(n) = (n-1)!.
+
+function gammeFnc () {
+  
 }
 
 //I highly doubt that anything below will be on the test, but it's good practice
@@ -55,7 +62,7 @@ function permutations(array) {
 
 
 // Write a recursive method that returns an array of the best change given a target amouunt
-function make_change(target, coins = [25, 10, 5, 1]) {
+function makeChange(target, coins = [25, 10, 5, 1]) {
 
 }
 
@@ -72,6 +79,6 @@ Number.prototype.stringify = function () {
 
 
 // Write a recursive method that returns the sum of the first n even numbers
-function first_even_numbers_sum(n) {
+function firstEvenNumbersSum(n) {
 
 }

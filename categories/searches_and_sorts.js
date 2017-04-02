@@ -17,6 +17,6 @@ function quickSort(arr, left, right){
 
 }
 
-function bsearch(numbers, target) {
+function bSearch(numbers, target) {
 
 }
