@@ -7,7 +7,7 @@ Array.prototype.twoSum = function () {
 
 };
 
-// Write a method that returns a hash containing any repeating elements as keys
+// Write a method that returns an object (all objects in JS are hashes, basically) containing any repeating elements as keys
 // with the values set to an array of the indexes of each repeat
 
 Array.prototype.dups = function () {
